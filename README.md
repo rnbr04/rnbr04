@@ -5,4 +5,4 @@
 
 |My Stats|My Languages|
 |------------|---------|
-|[![My stats](https://github-readme-stats-goku-04.vercel.app/api?username=Goku-04&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-goku-04.vercel.app/api/top-langs/?username=Goku-04)](https://github.com/anuraghazra/github-readme-stats)|
+|[![My stats](https://github-readme-stats-goku-04.vercel.app/api?username=Goku-04&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/Goku-04/github-readme-stats)|[![Top Langs](https://github-readme-stats-goku-04.vercel.app/api/top-langs/?username=Goku-04)](https://github.com/Goku-04/github-readme-stats)|
