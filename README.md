@@ -3,9 +3,6 @@
 - 🌱 Currently learning: C and Python from [CS50x](https://cs50.harvard.edu/x/2023/)
 - ♀️ Pronouns: He/Him
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-goku-04.vercel.app/api?username=Goku-04&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-goku-04.vercel.app/api/top-langs/?username=Goku-04" />
-</a>
+|My Stats|My Languages|
+|-------|--------|
+|[![GitHub stats](https://github-readme-stats-goku-04.vercel.app?username=Goku-04&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-goku-04.vercel.app/api/top-langs/?username=Goku-04)](https://github.com/anuraghazra/github-readme-stats)|
