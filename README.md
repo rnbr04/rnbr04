@@ -1,6 +1,6 @@
 ![Gif](https://media.tenor.com/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif)
 ### Currently Learning
-- 🌱 C and Python from [CS50x: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/)
+- 🌱 C and Python from [CS50x: Introduction to Computer Science](https://cs50.harvard.edu/x/)
 
 <details open>
 <summary>My Stats and Languages</summary>  
