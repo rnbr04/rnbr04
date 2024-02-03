@@ -1,5 +1,6 @@
 ![Gif](https://media.tenor.com/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif)
-My name is Ranbeer Malhotra and I am a person who likes surfing and understanding new technologies.
+
+I am Ranbeer Malhotra and I am a person who likes surfing and understanding new technologies.
 
 ### Currently Learning
 
