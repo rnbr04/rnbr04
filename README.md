@@ -11,7 +11,7 @@ I am Ranbeer Malhotra and I am a person who likes surfing web and understanding 
 
 |Stats|Languages|
 |-------|--------|
-|[![GitHub stats](https://github-readme-stats-goku-04.vercel.app/api?username=Goku-04&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-goku-04.vercel.app/api/top-langs/?username=Goku-04&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|
+|[![GitHub stats](https://github-readme-stats-xw1g-goku04s-projects.vercel.app/api?username=rnbr04&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-xw1g-goku04s-projects.vercel.app/api/top-langs/?username=rnbr04&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|
 </details>
 <details>
   <summary><h3>My badges</h3></summary>
