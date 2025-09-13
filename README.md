@@ -5,11 +5,12 @@ I am Ranbeer Malhotra and I am a person who likes surfing web and understanding 
 ### Currently Learning
 
 - C and Python from [CS50x: Introduction to Computer Science](https://cs50.harvard.edu/x/)
-- **Full Stack Javascript** from [The Odin Project](https://www.theodinproject.com/) (Intermediate HTML and CSS Progress: 73%) 
+- **Full Stack Javascript** from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) (Javascript: 9%) 
 
 ### Completed
 
 - **Foundation Path** of [The Odin Project](https://www.theodinproject.com/)
+- **Full Stack Javascript** from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) (Intermediate HTML and CSS Progress: 100%)
 
 <details open>
 <summary><h3>My Stats and Languages</h3></summary>
