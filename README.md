@@ -1,6 +1,9 @@
-![Gif](https://media.tenor.com/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif)
+Hi, I am Ranbeer Malhotra and I love Linux, maintaining my homelab, blogging and learning new tech.
 
-I am Ranbeer Malhotra and I love Linux, Web Development and learning new tech.
+Checkout my blog at:
+
+<img width="200" height="100" alt="banner" src="https://github.com/user-attachments/assets/588f98c9-4ecf-4449-a99f-944a6c5ec5fa" />
+https://blog.penguinthoughts.tech/
 
 ### Currently Learning
 
