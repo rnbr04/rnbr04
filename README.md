@@ -8,7 +8,7 @@ https://blog.penguinthoughts.tech/
 ### Currently Learning
 
 - C and Python from [CS50x: Introduction to Computer Science](https://cs50.harvard.edu/x/)
-- **Full Stack Javascript** from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) (Javascript: 16%) 
+- **Full Stack Javascript** from [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript)
 
 ### Completed
 
