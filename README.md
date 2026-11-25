@@ -20,7 +20,7 @@ https://blog.penguinthoughts.tech/
 
 |Stats|Languages|
 |-------|--------|
-|[![GitHub stats](https://github-readme-stats-xw1g-goku04s-projects.vercel.app/api?username=rnbr04&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-xw1g-goku04s-projects.vercel.app/api/top-langs/?username=rnbr04&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)|
+![Stats](./profile/stats.svg) | ![Top Languages](./profile/top-langs.svg)
 </details>
 
 <details>
